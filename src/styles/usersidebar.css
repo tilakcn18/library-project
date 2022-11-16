@@ -1,0 +1,51 @@
+.usersidebar{
+    background-image: url("../images/login1.jpg");
+   background-size: cover;
+    /* width: 120vh; */
+    /* padding: 40px 60px; */
+}
+
+.usersidebar{
+    
+    width: 180px;
+    height: 101.9vh;
+    padding-left: 0px; 
+    /* border-radius: 20px; */
+    margin-top:-30px;
+    margin-left: -10px;
+}
+   
+.usersidebar h3{
+    color:black;
+    font-size: 23px;
+    /* padding-right: 10px; */
+    font-family: sans-serif;
+    
+}
+.usersidebar li{
+    list-style: none;
+    margin-bottom: 50px;
+
+    /* padding: 20px 10px; */
+   
+}
+
+.usersidebar h2{
+    color:black;
+    text-align: center;
+    /* padding-left: 10px;  */
+    margin-bottom: 60px;
+    padding-top: 30px;
+    font-weight: bold;
+    font-size: 25px;
+    font-family: sans-serif;
+   /* font-family: cursive; */
+}
+
+/* small{
+    font-size: 15px;
+} */
+
+.usersidebar h3:hover{
+    color: white;
+}

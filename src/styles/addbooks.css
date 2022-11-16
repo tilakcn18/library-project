@@ -1,0 +1,77 @@
+.addbooks{
+    /* display: flex;
+    justify-content:space-evenly;
+    margin-top: 40px;*/
+    /* height: 100vh;  */
+    background-image:url("../images/login1.jpg");
+    height: 620px;
+    width: 600px;
+    /* border-radius: 30px; */
+    
+}
+
+.addbooks{
+    padding-top: 0px;
+    /* padding-left: -40px; */
+    /* padding: 150px 400px; */
+    /* margin-top: 40px; */
+    /* margin-bottom: 75px; */
+    margin-left: 195px;
+    
+
+    
+     
+}
+
+
+/* .but{
+    padding-left: 5px;
+    padding-top: 38px;
+
+} */
+
+.inp{
+    border: none;
+    outline: none;
+    border-bottom: 2px solid rgb(73, 73, 73);
+    background-color:rgba(0, 0, 0, 0.774);
+    color: white;
+    width: 340px;
+    margin-top: -50px;
+    font-size: 12px;
+}
+
+.row h1{
+    text-align: center;
+    font-size: 20px;
+   font-family: sans-serif;
+}
+ 
+#lab{
+    font-size:12px ;
+    color: black;
+}
+
+#addbooksbut{
+    /* color:rgb(185, 185, 185); */
+    font-size: 15px;
+    
+    background-color:rgba(15, 14, 14, 0.774);
+    /* text-align: center; */
+   margin-top: 30px;
+   padding: 10px 30px;
+   /* padding-left: 60px; */
+   /* margin-left: 193px; */
+   /* border-radius: 30px; */
+   
+  
+   
+}
+ 
+.addbooksbutton{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 180px;
+    margin-right:180px;
+    
+}

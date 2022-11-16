@@ -1,0 +1,40 @@
+.bookcard{
+  /* display: flex;
+  flex-wrap: wrap; */
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  padding-left: 120px;
+  
+  
+  
+   
+
+}
+.booklist1{
+    background-image: url(../images/login1.jpg);
+    width: 400px;
+    height: 270px;
+    margin-bottom: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-right: 50px;
+    font-family: sans-serif;
+    /* border-radius: 20px; */
+   
+
+}
+
+.bookheading{
+   text-align: center;
+   margin-top: -10px;
+   font-family: sans-serif;
+}
+
+#booklistbutton{
+    padding: 5px 10px;
+    font-size: 18px;
+}
+
+#bookhead{
+    margin-left: 78px;
+}

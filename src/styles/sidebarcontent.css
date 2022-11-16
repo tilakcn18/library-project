@@ -1,0 +1,76 @@
+.sidebarcontent{
+    /* display: flex;
+    flex-wrap: wrap; */
+    display: grid;
+    grid-template-columns:1fr;
+    /* padding-left: 120px; */
+    margin-left: 180px;
+    margin-top: 20px;
+}
+
+.display1{
+    background-image: url(../images/login1.jpg);
+    width:590px;
+    height: 530px;
+    margin-bottom: 30px;
+    margin-right: 50px;
+    font-family: sans-serif;
+    padding-left: 40px;
+    padding-top: 30px;
+   
+   
+
+
+}
+#same{
+    font-size: 50px;
+} 
+
+.display2{
+    background-image: url(../images/login1.jpg);
+    width:590px;
+    height: 320px;
+    margin-bottom: 30px;
+    margin-right: 50px;
+    font-family: sans-serif;
+    padding-left: 40px;
+    padding-top: 30px;
+   
+   
+
+
+}
+
+.display3{
+    background-image: url(../images/login1.jpg);
+    width:590px;
+    height: 360px;
+    margin-bottom: 30px;
+    margin-right: 50px;
+    font-family: sans-serif;
+    padding-left: 40px;
+    padding-top: 30px;
+   
+   
+
+
+}
+
+.display4{
+    background-image: url(../images/login1.jpg);
+    width:590px;
+    height: 650px;
+    margin-bottom: 30px;
+    margin-right: 50px;
+    font-family: sans-serif;
+    padding-left: 40px;
+    padding-top: 30px;
+   
+   
+
+
+}
+
+#para{
+    font-size: 18px;
+}
